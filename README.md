@@ -1,108 +1,124 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                    PREMIUM HERO SECTION                   -->
-<!-- ========================================================= -->
-
-<img width="100%" src="YOUR_CUSTOM_BANNER_URL"/>
-
 # 👋 Hi, I'm **Vanshika Rana**
 
-### Data Analyst • Power BI Developer • Python Enthusiast • Final Year BCA Student
+### **Aspiring Data Analyst • Power BI Developer • Python Enthusiast**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Turning+Data+into+Business+Insights.;Building+Interactive+Power+BI+Dashboards.;Solving+Business+Problems+Using+Python+and+SQL.;Always+Learning.+Always+Improving."/>
+*Transforming raw data into meaningful business insights through analytics, visualization, and storytelling.*
 
-<br>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Decisions.;Building+Interactive+Power+BI+Dashboards.;Analyzing+Business+Problems+with+Python+%26+SQL.;Always+Learning.+Always+Building." />
+</p>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-2563EB?style=for-the-badge"/>
-</a>
+<p>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_RESUME">
-<img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563EB"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# 💡 Turning Data Into Decisions
+# 💎 About Me
 
-Data isn't just numbers.
+I'm a **Final Year Bachelor of Computer Applications (BCA) student** with a growing passion for **Data Analytics, Business Intelligence, and Data Visualization**.
 
-Every dataset tells a story, every visualization answers a question, and every insight has the potential to improve business decisions.
+I enjoy working with real-world datasets, cleaning messy data, identifying meaningful patterns, and transforming complex information into dashboards and reports that support smarter business decisions.
 
-I'm passionate about transforming raw, unstructured information into meaningful dashboards, analytical reports, and actionable recommendations using **Python, SQL, Excel, and Power BI**.
+My journey into data analytics started with curiosity—asking questions about *why* numbers change, *what* trends reveal, and *how* businesses can use data to improve outcomes. Today, I build projects that combine analytical thinking with practical tools like **Python, SQL, Excel, and Power BI**.
 
-Rather than simply building dashboards, I focus on solving business problems through data—identifying trends, understanding customer behavior, and presenting insights that support better decision-making.
-
-I'm continuously expanding my expertise in analytics, visualization, and business intelligence while building projects that demonstrate practical, real-world skills.
+I'm continuously improving my technical skills while building projects that reflect real analytical workflows, from data collection and preprocessing to visualization and storytelling.
 
 ---
 
-## 🚀 Quick Snapshot
+# 🚀 What I Bring
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="50%">
 
-### 📊
+### 📊 Data Analytics
 
-**Analytics**
-
-Business Intelligence
-
-</td>
-
-<td width="25%" align="center">
-
-### 🐍
-
-**Python**
-
-Data Processing
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Transformation
+* KPI Development
+* Dashboard Design
+* Business Reporting
+* Data Storytelling
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%">
 
-### 📈
+### 💻 Technical Skills
 
-**Power BI**
-
-Interactive Dashboards
-
-</td>
-
-<td width="25%" align="center">
-
-### 🗄️
-
-**SQL**
-
-Data Querying
+* Python
+* SQL
+* Power BI
+* Microsoft Excel
+* Pandas
+* NumPy
+* Matplotlib
+* Git & GitHub
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-> *"The goal isn't to collect data. The goal is to create clarity from complexity."*
+# 🌟 Featured Work
+
+| Project                            | Description                                                                                         |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 🌍 **India AQI Dashboard**         | Analyzed air quality trends and built an interactive dashboard to present environmental insights.   |
+| 🛒 **Retail Sales Analysis**       | Explored customer behavior, seasonal trends, and revenue drivers through exploratory data analysis. |
+| 👥 **Customer Segmentation (RFM)** | Segmented customers into actionable groups to support targeted marketing decisions.                 |
+| 🤖 **Customer Churn Prediction**   | Built a predictive model to identify customers likely to churn and support retention strategies.    |
+| 📈 **E-Commerce Sales Dashboard**  | Converted semi-structured sales data into clear KPIs and business insights with Power BI.           |
+
+---
+
+# 🎯 What I'm Working On
+
+* Building production-ready analytics projects.
+* Improving SQL query optimization and database design.
+* Creating interactive Power BI dashboards with advanced DAX.
+* Expanding my Python toolkit for automation and analytics.
+* Preparing for professional Data Analyst opportunities.
+
+---
+
+# 💬 My Approach
+
+> **Data has no value until it creates understanding.**
+>
+> I believe the best analysts don't just build dashboards—they solve business problems, communicate insights clearly, and help people make confident decisions.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+I'm always excited to learn, collaborate, and contribute to meaningful projects.
+
+**If you like my work, consider exploring my repositories or connecting with me.**
+
+</div>
