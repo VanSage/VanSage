@@ -12,33 +12,8 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-2563EB?style=for-the-badge"/>
-</a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_RESUME">
-<img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
-
-</div>
-
----
 
 # 💎 About Me
 
