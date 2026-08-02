@@ -1,7 +1,7 @@
 <div align="center">
        
 # 👋 Hello, I'm Vanshika
-
+            
 ### **Final Year BCA Student • Aspiring Data Analyst • Power BI Developer**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+into+Meaningful+Business+Insights.;Building+Interactive+Power+BI+Dashboards.;Exploring+Data+with+Python+and+SQL.;Always+Learning.+Always+Building."/>
