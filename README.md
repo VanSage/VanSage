@@ -35,7 +35,7 @@ Rather than treating analytics as just charts and numbers, I see it as a way to 
 * 🧹 Clean and prepare real-world datasets for analysis.
 * 📖 Communicate insights through effective data storytelling.
 
----
+---  
 
 # 🎯 Current Focus
 
@@ -77,7 +77,7 @@ Rather than treating analytics as just charts and numbers, I see it as a way to 
 
 ---
 
-<div align="center">
+<div align="center">                
 
 ### ⭐ *"Great analytics is not about presenting more data—it's about helping people make better decisions."*
 
